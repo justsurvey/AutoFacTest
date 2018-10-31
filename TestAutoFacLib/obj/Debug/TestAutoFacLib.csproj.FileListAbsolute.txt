@@ -1,6 +1,0 @@
-D:\coding\test\testApi\TestAutoFacLib\bin\Debug\TestAutoFacLib.dll
-D:\coding\test\testApi\TestAutoFacLib\bin\Debug\TestAutoFacLib.pdb
-D:\coding\test\testApi\TestAutoFacLib\obj\Debug\TestAutoFacLib.csprojAssemblyReference.cache
-D:\coding\test\testApi\TestAutoFacLib\obj\Debug\TestAutoFacLib.csproj.CoreCompileInputs.cache
-D:\coding\test\testApi\TestAutoFacLib\obj\Debug\TestAutoFacLib.dll
-D:\coding\test\testApi\TestAutoFacLib\obj\Debug\TestAutoFacLib.pdb
