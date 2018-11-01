@@ -33,6 +33,9 @@ namespace TestTopShelf
 
         public static void Main(string[] args)
         {
+            TestAopByAutofac.Fire();
+            return;
+
             //initAutoFac();
 
             //1.实在版 2.讨巧版 
