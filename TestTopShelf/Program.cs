@@ -36,7 +36,7 @@ namespace TestTopShelf
             TestAopByAutofac.Fire();
             return;
 
-            //initAutoFac();
+            //initAutoFac(); 嗯
 
             //1.实在版 2.讨巧版 
             //1： 
